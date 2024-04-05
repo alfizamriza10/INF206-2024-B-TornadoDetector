@@ -1,1 +1,1 @@
-# -INF206-2024-3-TornadoDetector
+# INF206-2024-B-TornadoDetector
